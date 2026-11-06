@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+sqlalchemy
+pymysql
+psycopg2-binary
+python-dotenv
+groq
+reportlab
+matplotlib
+kaleido
+statsmodels
